@@ -3,8 +3,8 @@ package com.contacts.entity;
 import java.util.List;
 
 
-import javax.persistence.*;
-import javax.validation.Valid;
+import jakarta.persistence.*;
+import jakarta.validation.Valid;
 
 import com.contacts.forms.AddContactForm;
 
