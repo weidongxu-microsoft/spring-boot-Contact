@@ -1,6 +1,6 @@
 package com.contacts.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import com.contacts.forms.SignupForm;
 
